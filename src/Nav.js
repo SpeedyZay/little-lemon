@@ -1,0 +1,11 @@
+import './App.css';
+
+function Nav() {
+  return (
+    <div className="App">
+       <img src="logo512.png"></img>
+    </div>
+  );
+}
+
+export default Nav;
